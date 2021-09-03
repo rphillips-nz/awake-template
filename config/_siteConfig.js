@@ -1,9 +1,3 @@
-/**
- * CMS Configuration
- * Alter 'netlify' in the import statment below to one of the following:
- * netlify
- */
-import theCMS from '../cms/netlify/cms'
 
 /**
  * General Site configurations
@@ -103,5 +97,3 @@ export default {
     perPage: 6
   }
 }
-
-export const CMS = theCMS
