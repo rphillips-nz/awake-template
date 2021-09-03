@@ -12,8 +12,8 @@ module.exports = {
 		}
 	},
 	paths: {
-		static: 'static',
-		uploads: 'static/uploads',
+		'static': 'assets',
+		uploads: 'assets/uploads',
 		collections: 'content'
 	},
 	_comments: {
